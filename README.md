@@ -1,4 +1,5 @@
 # app
+Vue3 + TypeScript + SCSS
 
 ## Project setup
 ```
